@@ -1,8 +1,7 @@
 # Touch-Sensor
 IC based project for beginners
 
-
-Here is a step-by-step guide to making a touch-controlled tone generator using a 555 timer and a touch sensor:
+A touch-controlled tone generator using a 555 timer and a touch sensor:
 
 Materials needed:
 
@@ -39,5 +38,5 @@ Step 11: Turn on the power supply and touch the touch sensor module. You should 
 
 Step 12: Adjust the potentiometer to change the frequency of the tone.
 
-That's it! You have successfully made a touch-controlled tone generator using a 555 timer and a touch sensor. You can experiment with different resistor and capacitor values to create different tones and sounds
+That's it! 
 ![WhatsApp Image 2024-07-12 at 19 50 34_9c22cca5](https://github.com/user-attachments/assets/21ef30c6-eaea-4b44-b12b-f184242775cb)
